@@ -1,0 +1,22 @@
+body {
+  background-color: #ffffff;
+  opacity: 0.9;
+  align-items: center;
+  justify-content: center;
+}
+
+.Title {
+  color: black;
+  text-align: center;
+}
+
+.centreimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.centre {
+  text-align: center;
+}
